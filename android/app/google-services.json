@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707971730391",
+    "firebase_url": "https://shoping-47fca.firebaseio.com",
+    "project_id": "shoping-47fca",
+    "storage_bucket": "shoping-47fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707971730391:android:e233b5c56ef1752c459992",
+        "android_client_info": {
+          "package_name": "com.elbaz.shoping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707971730391-jlscdmtmluvn2i3i6eiveh9aml1jookj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRtSVH-kMKt7_0T8w4wZvio2MF8D3u9Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707971730391-jlscdmtmluvn2i3i6eiveh9aml1jookj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
